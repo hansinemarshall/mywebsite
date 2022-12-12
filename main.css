@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(255, 192, 203);
+    font-family: 'Roboto', Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.date {
+    font-style: italic;
+}
+
+.post {
+    background-color: rgb(252, 131, 191);
+    margin: 1em 2em;
+    padding: 0.5em 2em;
+}
+
+#title-section{
+    background-color: white;
+    border: 2px solid black ;
+    margin: 2em ;
+    width: 30%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
